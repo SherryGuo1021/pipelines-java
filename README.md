@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/sherry202503/20250303/_apis/build/status%2FSherryGuo1021.pipelines-java?branchName=main)](https://dev.azure.com/sherry202503/20250303/_build/latest?definitionId=1&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
